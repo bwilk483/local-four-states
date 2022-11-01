@@ -1,0 +1,74 @@
+.catContainer {
+  margin-top: 4rem;
+  background-color: grey;
+}
+.catTitle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 2rem;
+  font-size: 3rem;
+}
+
+.catUnderline {
+  display: flex;
+  justify-content: center;
+}
+
+.catLinkContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2rem;
+  margin-top: 2rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+
+.catLinkImg {
+  width: 100%;
+  aspect-ratio: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: aqua;
+}
+
+.catLinkText {
+  font-size: 2rem;
+}
+
+.catShop {
+  background-image: url(./images/shops.jpg);
+  background-size: cover;
+  position: relative;
+}
+
+.catTrucks {
+  background-image: url(./images/shops.jpg);
+  background-size: cover;
+  position: relative;
+}
+
+.catFood {
+  background-image: url(./images/shops.jpg);
+  background-size: cover;
+  position: relative;
+}
+
+.catServices {
+  background-image: url(./images/shops.jpg);
+  background-size: cover;
+  position: relative;
+}
+
+.catBeauty {
+  background-image: url(./images/shops.jpg);
+  background-size: cover;
+  position: relative;
+}
+
+.catEntertainment {
+  background-image: url(./images/shops.jpg);
+  background-size: cover;
+  position: relative;
+}

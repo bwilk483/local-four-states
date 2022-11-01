@@ -5,6 +5,7 @@
   z-index: 10;
   background-color: #7bc8b2;
   position: center;
+  align-items: center;
 }
 
 .header-bg {

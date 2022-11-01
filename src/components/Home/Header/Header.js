@@ -14,6 +14,8 @@ const Header = () => {
         <img className="link-image" src="./img/support.png" alt=""></img>
         <img className="link-image" src="./img/support.png" alt=""></img>
         <img className="link-image" src="./img/support.png" alt=""></img>
+        <img className="link-image" src="./img/support.png" alt=""></img>
+        <img className="link-image" src="./img/support.png" alt=""></img>
       </div>
     </div>
   );
