@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-decoration: none;
+}
+
+.layout-container {
+  margin: auto;
+  border: 1px solid grey;
+  width: 80%;
+}
+
+@media screen and (max-width: 1040px) {
+  .layout-container {
+    width: 100%;
+  }
+}
