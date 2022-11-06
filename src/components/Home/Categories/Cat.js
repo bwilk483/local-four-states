@@ -27,6 +27,7 @@ const Cat = () => {
           <h1 className="catLinkText">Entertainment & Events</h1>
         </div>
       </div>
+      <div className="spacer"></div>
     </div>
   );
 };
