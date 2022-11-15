@@ -1,0 +1,14 @@
+.aboutInfoContainer {
+  padding-top: 100px;
+  padding-left: 10%;
+}
+
+.aboutUsTitle {
+  padding-bottom: 50px;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.aboutInfoTextContainer {
+  padding-bottom: 30px;
+}

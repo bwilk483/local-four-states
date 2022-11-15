@@ -7,7 +7,7 @@ import Footer from "../../components/Footer/Footer";
 
 const Home = () => {
   return (
-    <div className="layout-container">
+    <div className="layoutContainer">
       <Navbar />
       <Header />
       <Cat />
