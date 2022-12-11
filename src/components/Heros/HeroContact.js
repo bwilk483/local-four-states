@@ -11,7 +11,7 @@ const HeroContact = () => {
         <img className="hero-img" src={heroImg} alt="Hero" />
       </div>
       <div className="content">
-        <h1>Contacts</h1>
+        <h1>Contacts us!</h1>
         <p> Lets have a chat!</p>
       </div>
     </div>
