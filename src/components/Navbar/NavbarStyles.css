@@ -17,6 +17,7 @@
   justify-content: center;
   align-items: center;
   gap: 1rem;
+  height: 55px;
 }
 
 .nav-menu li,
@@ -24,10 +25,18 @@
   list-style-type: none;
 }
 
+.nav-menu li:hover,
+.nav-menu-active li:hover {
+  background-color: black;
+  color: white;
+  height: 35px;
+}
+
 .nav-menu li a,
 .nav-menu-active li a {
   font-size: 1.2rem;
   font-weight: 500;
+  text-decoration: none;
 }
 .nav-icon {
   display: none;
