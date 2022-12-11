@@ -10,7 +10,17 @@ const Header = () => {
         <ImageSlider />
       </div>
       <div className="header-links">
-        <img className="link-image" src="./img/support.png" alt=""></img>
+        <div className="img-container">
+          <img
+            className="link-image"
+            src="./img/header/signUp.jpg"
+            alt=""
+          ></img>
+          <div className="front-img">
+            <div>Sign Up</div>
+            <div>Your Business</div>
+          </div>
+        </div>
         <img className="link-image" src="./img/support.png" alt=""></img>
         <img className="link-image" src="./img/support.png" alt=""></img>
         <img className="link-image" src="./img/support.png" alt=""></img>
