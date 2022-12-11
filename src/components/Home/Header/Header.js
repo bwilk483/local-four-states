@@ -21,11 +21,40 @@ const Header = () => {
             <div>Your Business</div>
           </div>
         </div>
-        <img className="link-image" src="./img/support.png" alt=""></img>
-        <img className="link-image" src="./img/support.png" alt=""></img>
-        <img className="link-image" src="./img/support.png" alt=""></img>
-        <img className="link-image" src="./img/support.png" alt=""></img>
-        <img className="link-image" src="./img/support.png" alt=""></img>
+        <div className="img-container">
+          <img className="link-image" src="./img/support.png" alt=""></img>
+          <div className="front-img">
+            <div>Find A</div>
+            <div>Local business</div>
+          </div>
+        </div>
+        <div className="img-container">
+          <img className="link-image" src="./img/support.png" alt=""></img>
+          <div className="front-img">
+            <div>Blog About</div>
+            <div>local Businesses</div>
+          </div>
+        </div>
+        <div className="img-container">
+          <img className="link-image" src="./img/support.png" alt=""></img>
+          <div className="front-img">
+            <div>Upcoming</div>
+            <div>Events</div>
+          </div>
+        </div>
+        <div className="img-container">
+          <img className="link-image" src="./img/support.png" alt=""></img>
+          <div className="front-img">
+            <div>Local</div>
+            <div>News</div>
+          </div>
+        </div>
+        <div className="img-container">
+          <img className="link-image" src="./img/support.png" alt=""></img>
+          <div className="front-img">
+            <div>Sponsors</div>
+          </div>
+        </div>
       </div>
     </div>
   );
