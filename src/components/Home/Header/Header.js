@@ -7,6 +7,7 @@ const Header = () => {
   return (
     <div className="header-container">
       <div className="slide-container">
+        <h1 className="headerSponsors">Sponsors</h1>
         <ImageSlider />
       </div>
       <div className="header-links">

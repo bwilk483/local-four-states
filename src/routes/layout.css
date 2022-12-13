@@ -6,17 +6,16 @@
 }
 
 .layoutContainer {
-  margin: auto;
+  /* margin: auto; */
   border: 1px solid grey;
-  width: 80%;
+  /* width: 80%; */
   background-color: lightgray;
 }
 
-@media screen and (max-width: 1040px) {
+@media screen and (max-width: 1800px) {
   .layout-container {
-    margin: auto;
+    margin: 0%;
     border: 1px solid grey;
     width: 100%;
-    background-color: lightgray;
   }
 }
