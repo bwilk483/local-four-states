@@ -87,3 +87,18 @@ h1 {
     padding-bottom: 1rem;
   }
 }
+
+@media screen and (max-width: 850px) {
+  .header-container {
+    padding-bottom: 850px;
+  }
+  .header-links {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .header-links {
+    grid-template-columns: 1fr;
+  }
+}
