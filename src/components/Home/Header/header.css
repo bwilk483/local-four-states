@@ -25,7 +25,7 @@ h1 {
 .header-links {
   display: grid;
   grid-template-columns: 30% 30% 30%;
-  grid-gap: 2rem;
+  gap: 2rem;
   margin-right: 100px;
 }
 
@@ -102,10 +102,12 @@ h1 {
     width: 90%;
     height: 450px;
     margin: 0 auto;
+    padding-bottom: 50px;
   }
 
   .header-links {
     grid-template-columns: 1fr;
+    gap: 1rem;
   }
 
   .link-image {
